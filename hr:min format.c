@@ -11,5 +11,6 @@ scanf("%d",&minutes);
 total minutes=(hours+60)=minutes;
 printf("\n total time in minutes:\t%d\n,"total1 minutes);
 retrun 0;
-{
+       }
+     
 
